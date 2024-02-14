@@ -8,6 +8,6 @@ public class Cappuccino implements Beverage{
 
     @Override
     public String getDescription() {
-        return "Cappuccino coffee";
+        return "Cappuccino coffees";
     }
 }
